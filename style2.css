@@ -1,0 +1,82 @@
+/* navbar */
+.my-nav .nav-item {
+	padding: 0 5px;
+	font-size: 17px;
+}
+/* hero */
+.hero-area{
+    background-color: #0077FE;
+    width: 100%;
+    height: 800px;
+}
+.hero-left {
+	margin-top: 200px;}
+
+.hero-left h1 {
+	font-size: 65px;
+	font-weight: bolder;
+	color: white;
+	line-height: 85px;
+}
+.hero-left a {
+	color: white;
+	text-decoration: none;
+	background: #19F7FE;
+	padding: 18px 40px;
+	font-size: 23px;
+	font-weight: bold;
+	display: inline-block;
+	margin-top: 20px;
+}
+.hero-left a:hover{
+    background-color:#0BDE8C ;
+}
+.hero-right {
+	margin-top: 124px;
+	padding: 0 18px;
+}
+/* market */
+.marketing{
+    margin-top: 105px;
+}
+
+.market-right h2 {
+	color: #204570;
+	font-size: 58px;
+	font-weight: bold;
+}
+
+.market-right a {
+	color: white;
+	text-decoration: none;
+	background: #19F7FE;
+	padding: 15px 30px;
+	font-size: 23px;
+	font-weight: bold;
+	display: inline-block;
+	
+}
+.market-right a:hover{
+    background-color:#0BDE8C ;
+}
+
+/* slidwe */
+.slider{
+    margin-top: 100px;
+}
+.slider h1 {
+	text-align: center;
+	color: #204570;
+	font-size: 58px;
+	font-weight: bold;
+	margin-bottom: 77px;
+}
+
+.u-client{
+
+}
+.cl-l{
+    height: 276px;
+width: 349px;
+background-color: white;
+
